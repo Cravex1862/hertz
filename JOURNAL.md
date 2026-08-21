@@ -11,6 +11,6 @@ I spent about an hour today researching about how ANC works and finding suitable
 
 ![image](https://bubblynet.com/hs-fs/hubfs/Images/Diagrams%20and%20Infographics/how-noise-cancellation-works.jpg?width=1260&height=690&name=how-noise-cancellation-works.jpg)
 
-After this I proceeded to look for some parts for these ANC headphones and I could only decide on the speakers and I found these ![40mm speaker drivers](https://www.amazon.in/Komsunma-Replacement-WH-1000XM4-WH-1000XM3-Headphones/dp/B0B3S2CYZS) for around 2000rs on amazon.
+After this I proceeded to look for some parts for these ANC headphones and I could only decide on the speakers and I found these [40mm speaker drivers](https://www.amazon.in/Komsunma-Replacement-WH-1000XM4-WH-1000XM3-Headphones/dp/B0B3S2CYZS) for around 2000rs on amazon.
 
 **Total time spent: 1 hour**

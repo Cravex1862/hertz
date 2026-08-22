@@ -5,7 +5,7 @@ description: "Custom ANC over-ear blutooth wireless headphones"
 created_at: "2026-08-21"
 ---
 
-# August 31 : Researching about ANC and finding parts
+# August 21 : Researching about ANC and finding parts
 
 I spent about an hour today researching about how ANC works and finding suitable parts for this project. For people who want to know how ANC works: ANC or Active Noice Cancellation is a noise cancellation technology(obviously). It works by inverting the phase of incoming sound wave and playing it in your ears at the same time the sound wave of noise reaches your ears. This causes both the waves to cancel each other out causing the user to hear nothing.
 
